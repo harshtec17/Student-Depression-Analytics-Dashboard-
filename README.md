@@ -15,11 +15,17 @@ Developing data-driven solutions for mental health interventions.
 Procedure Followed:
 
 1.Extract, Transform, and Load (ETL) data
+
 2.Data Modeling
+
 3.Key Performance Indicator (KPI) Creation
+
 4.Writing DAX Expressions
+
 5.Report Building
+
 6.Data Visualization
+
 7.Publishing the Dashboard
 
 Key Findings:
