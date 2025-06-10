@@ -2,7 +2,7 @@
 This dataset captures various demographic, psychological, and lifestyle factors influencing student depression levels. It contains information about academic pressure, work pressure, sleep habits, dietary habits, and mental health indicators, making it a valuable resource for analyzing mental health trends among students.
 
 
-Project Objective:
+# Project Objective:
 
 To analyze student depression trends and uncover actionable insights to improve mental health outcomes for young adults, focusing on:
 
@@ -14,21 +14,21 @@ Developing data-driven solutions for mental health interventions.
 
 Procedure Followed:
 
-1.Extract, Transform, and Load (ETL) data
+# 1.Extract, Transform, and Load (ETL) data
 
-2.Data Modeling
+# 2.Data Modeling
 
-3.Key Performance Indicator (KPI) Creation
+# 3.Key Performance Indicator (KPI) Creation
 
-4.Writing DAX Expressions
+# 4.Writing DAX Expressions
 
-5.Report Building
+# 5.Report Building
 
-6.Data Visualization
+# 6.Data Visualization
 
-7.Publishing the Dashboard
+# 7.Publishing the Dashboard
 
-Key Findings:
+# Key Findings:
 
 1. Sleep Duration and Depression Risk:
 
